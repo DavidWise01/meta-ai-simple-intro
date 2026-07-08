@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 246
+slug  : meta-ai-simple-intro
+seal  : 23c062b7433b7905e1e032b64ff79546f41aee38a7afd60f6dfdd73ad6b06f95
+prev  : 84a7670dfe5f651e78b0b8cfbde1317a9ffa2bab330cc4bbe7c64ed085af8c3f
+link  : f3a869790276456a2d360a16477e6e4efaedf206fa00d733e885a263bcfc87e9
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
